@@ -57,9 +57,9 @@
 
 ## Screenshot
 
-![Game Screenshot](./img/game_screenshot.jpg)
+![Game Screenshot](./img/game_screenshot.png)
 
-![Leaderboard Screenshot](./img/ranking_screenshot.jpg)
+![Leaderboard Screenshot](./img/ranking_screenshot.png)
 
 ## Users Credentials
 
